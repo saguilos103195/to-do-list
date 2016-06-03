@@ -1,0 +1,19 @@
+[
+    null,
+    {
+        "list": {
+            "id": 2,
+            "title": null,
+            "message": null,
+            "date": null
+        }
+    },
+    {
+        "list": {
+            "id": 3,
+            "title": null,
+            "message": null,
+            "date": null
+        }
+    }
+]
